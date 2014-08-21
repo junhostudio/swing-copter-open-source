@@ -1,12 +1,13 @@
 #swing-copter-open-source
 ##Description
 [How to play]
-*Tap to screen to fly.
-*Avoid obstacles.
-*Try to get 4 medals: Bronze, Silver, Gold (hard), Platinum (very hard).
+* Tap to screen to fly.
+* Avoid obstacles.
+* Try to get 4 medals: Bronze, Silver, Gold (hard), Platinum (very hard).
 
 ##Screenshot
 ![Screenshot](https://lh4.ggpht.com/YSEnkmcLy86PGmbmga15C4FF-whyZzlJV_EaH1f-fh-XZF_01OZdLUYe2WH0trTmWX2A=h900)
+
 Repository at <https://github.com/junhostudio/swing-copter-open-source>.
 
 ## Sample Apps
