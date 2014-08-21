@@ -1,4 +1,4 @@
-#swing-copter-open-source
+#Swing Copters Pro - Open source
 ##Description
 [How to play]
 * Tap to screen to fly.
