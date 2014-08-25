@@ -11,7 +11,7 @@
 Repository at <https://github.com/junhostudio/swing-copter-open-source>.
 
 ## Sample Apps
-[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.junho.swingpenguin)
+[![Get it on Amazon Store](http://cdn1.blackberryempire.com/wp-content/uploads/2014/06/Amazon-App-Store.jpg)](http://www.amazon.com/Junho-Tappy-Copters/dp/B00MZZKP7G/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=undefined&sr=1-1&keywords=tappy+copter)
 
 ##Keywords
 flappy bird, swing copters, tappy bird, floppy bird
